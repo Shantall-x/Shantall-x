@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hola, soy Shantall 
 
-<!--
-**Shantall-x/Shantall-x** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Técnica en Computación e Informática | Coordinadora de sistemas  
+Fullstack en formación con enfoque en backend, bases de datos y sistemas web
 
-Here are some ideas to get you started:
+## 💻 Sobre mí
+Me enfoco en el desarrollo de sistemas web y la gestión de bases de datos.  
+Actualmente fortaleciendo mis habilidades como desarrolladora Fullstack.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tecnologías
+- HTML, CSS, JavaScript
+- PHP / Node.js (en aprendizaje)
+- MySQL / SQL Server
+- Git y GitHub
+
+## 📌 Proyectos
+- Sistema de gestion de inventario (en desarrollo)
+- Prácticas de desarrollo web
+
+## 📫 Contacto
+- LinkedIn: https://www.linkedin.com/in/shantall-gutierrezh/
